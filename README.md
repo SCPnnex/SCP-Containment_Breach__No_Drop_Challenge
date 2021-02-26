@@ -3,11 +3,11 @@ The SCP - Containment Breach: No Drop Challenge, is a challenge where the player
 
 
 
-This challenge can be played on two modes: Regular and Hard.
+This challenge can be played on two modes: ***Regular*** and ***Hard***.
 
-The challenge rules can be found in the file: Challenge Rules.
+The challenge rules can be found in the file: **Challenge Rules**.
 
-The scoring system to calculate your points can be found in the file: Scoring System.
+The scoring system to calculate your points can be found in the file: **Scoring System**.
 
 
 
