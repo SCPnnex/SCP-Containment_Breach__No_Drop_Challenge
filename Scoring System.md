@@ -21,10 +21,10 @@ This means that:
 * 1 minute and 29 seconds will count as 1 minute.
 * 1 minutes and 30 seconds will count as 2 minutes.
 
-
 To ease timing, I recommend you to use **forxandknives’s** 1.3.11NEW.ASL auto splitter together with my layout and splits for the application LiveSplit.
 
 These will do all the timing work for you allowing you to focus on the game.
+
 
 A guide on how to do this can be found at:
 
